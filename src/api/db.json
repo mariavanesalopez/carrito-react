@@ -1,0 +1,73 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Torta Pavlova",
+      "price": 6000,
+      "descripcion": "Frutos rojos, plancha de merenge, dulce de leche",
+      "kilogramos": 1500,
+      "img": "https://www.petitchef.es/imgupl/recipe/pavlova-de-primavera-con-fresas-y-arandanos--64556p83878.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Selva negra",
+      "price": 4900,
+      "descripcion": "Bizcochuelo de chocolate, chips de chocolate, dulce de leche, crema bon o bon",
+      "kilogramos": 2100,
+      "img": "https://i.makeagif.com/media/1-25-2016/A4NPYP.gif"
+    },
+    {
+      "id": 3,
+      "name": "Ferrero Rocher",
+      "price": 4800,
+      "descripcion": "Bizcochuelo de chocolate, dulce de leche, crema nutella, bombones ferrero rocher",
+      "kilogramos": 1800,
+      "img": "https://thumbs.gfycat.com/BlindQuerulousHyrax-size_restricted.gif"
+    },
+    {
+      "id": 4,
+      "name": "Nutella",
+      "price": 3800,
+      "descripcion": "Pionono, plancha de merengue, crema nutella, decoración trozos de merengue",
+      "kilogramos": 1500,
+      "img": "https://placeralplato.com/files/2016/03/Postre-imperial-ruso.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cheesecake",
+      "price": 3500,
+      "descripcion": "Galletas vainilla, queso philadelphia, frutos rojos y jalea",
+      "kilogramos": 1500,
+      "img": "https://media.tenor.com/I3XdasCXp7cAAAAC/national-cheesecake-day-cheesecake.gif"
+    },
+    {
+      "id": 6,
+      "name": "Chocolinas",
+      "price": 4500,
+      "descripcion": "Galletas chocolina, dulce de leche, crema, bombones",
+      "kilogramos": 1500,
+      "img": "https://birthdaycake24.com/uploads/worigin/2018/12/08/birthday-gift-and-name5c0bbd48e6157_f7de6dcd58495582c8d12dc47a9f9adc.gif"
+    },
+    {
+      "name": "sorpresa",
+      "img": "https://t3.ftcdn.net/jpg/01/83/36/24/240_F_183362463_gGtCffl69n5csSwHIjgeg3hwtuLxGMHn.jpg",
+      "price": 7000,
+      "descripcion": "rellenos",
+      "id": 7
+    },
+    {
+      "name": "Torta Playa",
+      "img": "https://dgari.com/wp-content/uploads/2021/04/Gelatina.jpg",
+      "price": 8000,
+      "descripcion": "artesanal",
+      "id": 8
+    },
+    {
+      "name": "Tarta de Coco  y dulce de leche",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr8xgMKYvnEiYRWmFGweZIBdFGtjfhUFCFCg&usqp=CAU",
+      "price": 3800,
+      "descripcion": "Coco y dulce de leche",
+      "id": 9
+    }
+  ]
+}

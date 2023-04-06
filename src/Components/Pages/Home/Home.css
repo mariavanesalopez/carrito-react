@@ -1,0 +1,17 @@
+.navbar {
+    background-color: wheat;
+    color: black;
+    font-weight:bolder;
+    padding: 10px 20px ;
+    margin: 10px;
+    font-family: "cursive";
+}
+
+.activeNavbar{
+    background-color:brown;
+    color: wheat;
+    font-weight:bolder;
+    padding: 10px 20px ;
+    margin: 10px;
+    font-family: "cursive";
+}
